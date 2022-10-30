@@ -14,3 +14,16 @@
 ⦁	 VGG16
 ⦁	 ResNet50
 
+
+# Target : 
+From,  the FairFace and UTKface  and . Age, Gender , Ethinicity Dataset  our main goal is find 5 race condition :
+
+⦁	Black
+⦁	East Asian
+⦁	Indian
+⦁	White
+⦁	Southeast Asia
+⦁	Other
+Here we combined both East Asian and Southeast asian as Asian.
+
+
